@@ -1,2 +1,0 @@
-# ReactTransition
-Created with CodeSandbox
